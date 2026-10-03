@@ -2,6 +2,8 @@
 
 **GameAware: Incorporating Game Context into Brand Exposure Measurement in Sports Broadcasts**
 
+[🌐 Project Website](https://rommchic.github.io/GameAware/) · [📄 Paper](paper_idea/GameAware.pdf) · [📚 Wiki](../../wiki)
+
 ## Overview
 
 GameAware is a research project focused on automated measurement of brand exposure in sports broadcasts using computer vision and temporal game context.
@@ -12,12 +14,12 @@ The project investigates how visual characteristics of sponsor visibility and th
 
 The proposed framework considers:
 
-* exposure duration;
-* normalized on-screen area;
-* spatial position;
-* visibility continuity;
-* occlusion;
-* game and broadcast context, including attacking sequences, goals, replays, stoppages, and celebrations.
+- exposure duration;
+- normalized on-screen area;
+- spatial position;
+- visibility continuity;
+- occlusion;
+- game and broadcast context, including attacking sequences, goals, replays, stoppages, and celebrations.
 
 The proposed measure will be compared with screen-time-based and visual-only baselines using human judgments of brand noticeability.
 
@@ -39,7 +41,4 @@ GameAware/
 └── illustration/
     └── gameaware_framework.png
 ```
-
-
-
 
